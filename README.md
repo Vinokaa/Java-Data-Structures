@@ -1,6 +1,6 @@
 # Java Data Structures Library
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Vinokaa/JavaDataStructures/blob/master/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Vinokaa/JavaDataStructures/blob/main/README.pt-br.md)
 
 This library contains the most common data structures used, and was completely made by me during my 4º semester in college for the Structured Problem Solving in Computing classes (originally Resolução de Problemas Estruturados
 em Computação).
